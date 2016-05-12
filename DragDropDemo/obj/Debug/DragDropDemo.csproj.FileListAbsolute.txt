@@ -1,0 +1,10 @@
+c:\users\mike\documents\visual studio 2015\Projects\DragDropDemo\DragDropDemo\bin\Debug\DragDropDemo.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\DragDropDemo\DragDropDemo\bin\Debug\DragDropDemo.exe
+c:\users\mike\documents\visual studio 2015\Projects\DragDropDemo\DragDropDemo\bin\Debug\DragDropDemo.pdb
+c:\users\mike\documents\visual studio 2015\Projects\DragDropDemo\DragDropDemo\obj\Debug\DragDropDemo.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\DragDropDemo\DragDropDemo\obj\Debug\DragDropDemo.Classes.AddressControl.resources
+c:\users\mike\documents\visual studio 2015\Projects\DragDropDemo\DragDropDemo\obj\Debug\DragDropDemo.DragDrop2.resources
+c:\users\mike\documents\visual studio 2015\Projects\DragDropDemo\DragDropDemo\obj\Debug\DragDropDemo.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2015\Projects\DragDropDemo\DragDropDemo\obj\Debug\DragDropDemo.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2015\Projects\DragDropDemo\DragDropDemo\obj\Debug\DragDropDemo.exe
+c:\users\mike\documents\visual studio 2015\Projects\DragDropDemo\DragDropDemo\obj\Debug\DragDropDemo.pdb
